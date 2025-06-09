@@ -18,7 +18,7 @@ I'm passionate about using data and software to solve real-world problems and co
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&hide_progress=true)
-[Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&theme=vue)
+![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&theme=vue)
 
 ## Technical and Libraries Tools Used
 <p align="left">
