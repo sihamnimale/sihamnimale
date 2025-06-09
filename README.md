@@ -12,9 +12,12 @@ I'm passionate about using data and software to solve real-world problems and co
 
 - 🧠 Data Analysis  
 - 📊 Data Science    
-- 🔐 Cybersecurity
 - ☁️ Cloud Technologies 
 - 🛠️ Data & Software Engineering
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
+- 🌐 Portfolio (coming soon)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&hide_progress=true&theme=vue)
@@ -35,8 +38,3 @@ I'm passionate about using data and software to solve real-world problems and co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikitlearn" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
-- 🌐 Portfolio (coming soon)
