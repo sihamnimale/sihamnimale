@@ -11,12 +11,15 @@ I'm passionate about using data and software to solve real-world problems and co
 ### 🚀 Fields of Interest
 
 - 🧠 Data Analysis  
-- 📊 Data Science   
-- ☁️ Cloud Technologies  
-- 🔐 Cybersecurity  
+- 📊 Data Science    
+- 🔐 Cybersecurity
+- ☁️ Cloud Technologies 
 - 🛠️ Data & Software Engineering
 
-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&layout=compact)
+![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&theme=transparent)
+
 
 ## Technical and Libraries Tools Used
 <p align="left">
