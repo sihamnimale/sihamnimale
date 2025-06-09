@@ -20,7 +20,7 @@ I'm passionate about using data and software to solve real-world problems and co
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&hide_progress=true&theme=vue)
 ![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&theme=vue)
 
-## Technical and Libraries Tools Used
+## Technical & Library Tools Used
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
