@@ -36,8 +36,6 @@ I'm passionate about using data and software to solve real-world problems and co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>
 
-## Tools I'm Learning
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
