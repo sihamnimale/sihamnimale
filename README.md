@@ -16,6 +16,8 @@ I'm passionate about using data and software to solve real-world problems and co
 - 🔐 Cybersecurity  
 - 🛠️ Data & Software Engineering
 
+- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technical and Libraries Tools Used
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
