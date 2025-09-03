@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome%20to%20My%20GitHub!%20👩🏽‍💻&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-## A Little Bit About Me
+## About Me
 
 👋 Hello! I'm **Siham** — a tech enthusiast with a background in **neuroscience**, now exploring the world of **data and technology**.
 
@@ -14,6 +14,7 @@ I'm passionate about using data and software to solve real-world problems and co
 - 📊 Data Science    
 - ☁️ Cloud Technologies 
 - 🛠️ Data & Software Engineering
+- 🔐 Cybersecurity
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
