@@ -21,8 +21,8 @@ I'm passionate about using data and software to solve real-world problems and co
 - 🌐 Portfolio (coming soon)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&hide_progress=true?theme=gotham)
-![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&hide_progress=true&theme=gotham)
+![Siham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&hide=contribs,prs&theme=gotham)
 
 ## Technical & Library Tools Used
 <p align="left">
