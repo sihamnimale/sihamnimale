@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sihamnimale.github.io"><img width="80%" alt="Hello, I'm Siham." src="./assets/gh-readme-header.png" /></a></p>
+ <p align="center"><a href="https://sihamnimale.github.io"><img width="80%" alt="Hello, I'm Siham." src="assets/gh-readme-header.png" /></a></p>
 
 ## About Me
 
@@ -6,17 +6,8 @@ I'm a tech enthusiast with a background in **neuroscience**, now exploring the w
 
 I'm passionate about using data and software to solve real-world problems and continuously expanding my skills across the tech stack.
 
-### 🚀 Fields of Interest
-
-- 🧠 Data Analysis  
-- 📊 Data Science    
-- ☁️ Cloud Technologies 
-- 🛠️ Data & Software Engineering
-- 🔐 Cybersecurity
-
-### 📫 Let's Connect
+### 📫 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
-- 🌐 Portfolio (coming soon)
 
 ## GitHub Stats
 | <a href="https://github.com/sihamnimale/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Siham's github stats" /></a> | <a href="https://github.com/sihamnimale/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&layout=compact&theme=gotham&hide_border=true" /></a> |
