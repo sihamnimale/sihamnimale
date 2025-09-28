@@ -4,7 +4,7 @@ I'm a tech enthusiast with a background in **neuroscience**, now exploring the w
 
 I'm passionate about using data and software to solve real-world problems and continuously expanding my skills across the tech stack.
 
-### 📫 Get in Touch
+### Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
 
 ## GitHub Stats
