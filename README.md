@@ -8,8 +8,9 @@ I'm passionate about using data and software to solve real-world problems and co
 - [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
 
 ## GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Siham's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&layout=compact&theme=gotham&hide_border=true" /> |
+| GitHub Stats | Top Languages |
 | ------------- | ------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sihamnimale&theme=react&show_icons=true&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&theme=react&show_icons=true&hide_border=true&layout=compact) |
 
 ## Technical & Library Tools Used
 <p align="left">
