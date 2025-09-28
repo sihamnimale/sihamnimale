@@ -5,7 +5,7 @@ I'm a tech enthusiast with a background in **neuroscience**, now exploring the w
 I'm passionate about using data and software to solve real-world problems and continuously expanding my skills across the tech stack.
 
 ### Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
+- [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
 
 ## GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sihamnimale&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Siham's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihamnimale&layout=compact&theme=gotham&hide_border=true" /> |
