@@ -1,4 +1,4 @@
-## About Me
+## Hi I'm Siham!
 
 I'm a tech enthusiast with a background in **neuroscience**, now exploring the world of **data and technology**.
 
