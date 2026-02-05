@@ -1,8 +1,5 @@
 ## Hi I'm Siham!
 
-### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sihamnimale/)
-
 ## Technical & Library Tools Used
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
