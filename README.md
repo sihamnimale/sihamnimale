@@ -1,9 +1,10 @@
 # Hi, I'm Siham! 
 
-👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.
-🎓 Studied BSc Neuroscince - I enjoy problem-solving and coming up with creative solutions.
-📌 Currently focused on strengthening my foundation skills in backend engineering. 
-🎨 Hobbies: art · reading ·photography · cooking · hiking · technology
+👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.  
+🎓 BSc Neuroscince - analytical and creative problem-solver.  
+📌 Currently focused on developing my foundation in backend engineering skills.
+
+🎨 Art · Reading · Photography · Cooking · Hiking · Technology
 
 🔎 Open to entry or junior-level roles where I can contribute to solving problems and keep learning. 
 
@@ -16,7 +17,7 @@
 
 **Frameworks & Libraries**
 
-![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask)
+![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,numpy,pandas)
 
 **Databases**
 
@@ -34,3 +35,5 @@
 
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,claude)
 
+## Certification
+Code First Girls — Software & Data Engineering – [View Certificate](https://drive.google.com/file/d/19_mdgQkKOAohCCRXQbQMmzQuIq34X6rA/view?usp=drive_link)
