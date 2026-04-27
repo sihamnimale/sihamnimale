@@ -2,12 +2,9 @@
 
 👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.  
 🎓 BSc Neuroscince - analytical and creative problem-solver.  
-📌 Currently focused on developing my foundation in backend engineering skills.
-
+💭 Currently focused on developing my foundation in backend engineering skills.  
 🎨 Art · Reading · Photography · Cooking · Hiking · Technology
-
 🔎 Open to entry or junior-level roles where I can contribute to solving problems and keep learning. 
-
 
 ## Tools & Tech Stack
 
