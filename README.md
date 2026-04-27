@@ -3,33 +3,27 @@
 👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.  
 🎓 BSc Neuroscince - analytical and creative problem-solver.  
 💭 Currently focused on developing my foundation in backend engineering skills.  
-🎨 Art · Reading · Photography · Cooking · Hiking · Technology
+🎨 Art · Reading · Photography · Cooking · Hiking · Technology  
 🔎 Open to entry or junior-level roles where I can contribute to solving problems and keep learning. 
 
 ## Tools & Tech Stack
 
-**Programming Languages**
-
+**Programming Languages**   
 ![Programming](https://go-skill-icons.vercel.app/api/icons?i=python)
 
-**Frameworks & Libraries**
-
+**Frameworks & Libraries**    
 ![Framework](https://go-skill-icons.vercel.app/api/icons?i=flask,numpy,pandas)
 
-**Databases**
-
+**Databases**    
 ![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql)
 
-**Testing**
-
+**Testing**   
 ![Testing](https://go-skill-icons.vercel.app/api/icons?i=pytest)
 
-**Tools**
-
+**Tools**    
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode)
 
-**AI tools**
-
+**AI tools**   
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,claude)
 
 ## Certification
