@@ -22,7 +22,7 @@
 **Tools**    
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode)
 
-**AI tools**   
+**AI Tools**   
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,claude)
 
 ## Certification
