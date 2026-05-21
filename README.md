@@ -1,7 +1,6 @@
 # Hi, I'm Siham! 
 
-👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.  
-🎓 BSc Neuroscience - analytical and creative problem-solver.  
+👩🏾‍💻 Software engineer interested in backend, data engineering and cybersecurity.   
 💭 Currently focused on developing my foundation in backend engineering skills and upskilling cloud computing, with a focus on Azure.
 
 ## Tools & Tech Stack
