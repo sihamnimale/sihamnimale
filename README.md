@@ -22,6 +22,3 @@
 
 **AI Tools**   
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,claude)
-
-## Certification
-Code First Girls — Software & Data Engineering – [View Certificate](https://drive.google.com/file/d/19_mdgQkKOAohCCRXQbQMmzQuIq34X6rA/view?usp=drive_link)
